@@ -23,8 +23,9 @@ namespace ReservationsApi.Services
         }
         public async Task<List<Reservation>> GetReservations()
         {
-            _messageConsumer.Receive(QueuesNames.RESERVATION, onReservationReceived);
-            return await _dbContext.Reservations.ToListAsync();
+            return new List<Reservation>();
+            //_messageConsumer.Receive(QueuesNames.RESERVATION, onReservationReceived);
+            //return await _dbContext.Reservations.ToListAsync();
         }
 
         private async Task onReservationReceived(string message)
