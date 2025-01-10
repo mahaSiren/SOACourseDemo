@@ -1,3 +1,4 @@
 
 /VehicleTestDrive/CustomersApi/bin
 *.dll
+*/obj
