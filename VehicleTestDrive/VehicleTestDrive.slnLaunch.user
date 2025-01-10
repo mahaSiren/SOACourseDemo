@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VehiclesApi\\VehiclesApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ReservationsApi\\ReservationsApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiGateway\\ApiGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CustomersServiceAPI\\CustomersServiceAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

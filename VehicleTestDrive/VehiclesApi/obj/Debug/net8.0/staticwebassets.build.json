@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xMawJFt4dKDlnGZ3Mo+d/32d8qfcr1tTHaySHGfxJ8Q=",
+  "Source": "VehiclesApi",
+  "BasePath": "_content/VehiclesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

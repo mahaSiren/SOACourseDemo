@@ -1,0 +1,6 @@
+C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\test\bin\Debug\test.dacpac
+C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\test\bin\Debug\test.dll
+C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\test\bin\Debug\test.pdb
+C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\test\obj\Debug\test.sqlproj.AssemblyReference.cache
+C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\test\obj\Debug\test.dll
+C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\test\obj\Debug\test.pdb
