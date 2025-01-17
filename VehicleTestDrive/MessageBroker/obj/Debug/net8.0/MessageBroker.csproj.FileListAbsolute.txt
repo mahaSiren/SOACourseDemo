@@ -10,3 +10,16 @@ C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-mai
 C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\refint\MessageBroker.dll
 C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.pdb
 C:\Users\MahaRizk\Downloads\Microservice-Net-Core-main\Microservice-Net-Core-main\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\ref\MessageBroker.dll
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\bin\Debug\net8.0\MessageBroker.deps.json
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\bin\Debug\net8.0\MessageBroker.dll
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\bin\Debug\net8.0\MessageBroker.pdb
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.csproj.AssemblyReference.cache
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.AssemblyInfoInputs.cache
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.AssemblyInfo.cs
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.csproj.CoreCompileInputs.cache
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.sourcelink.json
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.dll
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\refint\MessageBroker.dll
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\MessageBroker.pdb
+C:\Workspace\SOACourse\VehicleTestDrive\MessageBroker\obj\Debug\net8.0\ref\MessageBroker.dll

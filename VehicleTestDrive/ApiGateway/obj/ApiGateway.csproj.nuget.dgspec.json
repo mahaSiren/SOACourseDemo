@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\ApiGateway\\ApiGateway.csproj": {}
+    "C:\\Workspace\\SOACourse\\VehicleTestDrive\\ApiGateway\\ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\ApiGateway\\ApiGateway.csproj": {
+    "C:\\Workspace\\SOACourse\\VehicleTestDrive\\ApiGateway\\ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\ApiGateway\\ApiGateway.csproj",
+        "projectUniqueName": "C:\\Workspace\\SOACourse\\VehicleTestDrive\\ApiGateway\\ApiGateway.csproj",
         "projectName": "ApiGateway",
-        "projectPath": "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\ApiGateway\\ApiGateway.csproj",
+        "projectPath": "C:\\Workspace\\SOACourse\\VehicleTestDrive\\ApiGateway\\ApiGateway.csproj",
         "packagesPath": "C:\\Users\\MahaRizk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\ApiGateway\\obj\\",
+        "outputPath": "C:\\Workspace\\SOACourse\\VehicleTestDrive\\ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

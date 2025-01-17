@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroker", "MessageBro
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "test", "test\test.sqlproj", "{5CDFA831-E59B-404D-A62E-8E92E11DC9EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthService", "AuthService\AuthService.csproj", "{B43BE16A-C1BE-4266-BCDC-007F258A3248}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{5CDFA831-E59B-404D-A62E-8E92E11DC9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CDFA831-E59B-404D-A62E-8E92E11DC9EB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5CDFA831-E59B-404D-A62E-8E92E11DC9EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B43BE16A-C1BE-4266-BCDC-007F258A3248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43BE16A-C1BE-4266-BCDC-007F258A3248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43BE16A-C1BE-4266-BCDC-007F258A3248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43BE16A-C1BE-4266-BCDC-007F258A3248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

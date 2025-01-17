@@ -5658,11 +5658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\CustomersServiceAPI\\CustomersServiceAPI.csproj",
+      "projectUniqueName": "C:\\Workspace\\SOACourse\\VehicleTestDrive\\CustomersServiceAPI\\CustomersServiceAPI.csproj",
       "projectName": "CustomersServiceAPI",
-      "projectPath": "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\CustomersServiceAPI\\CustomersServiceAPI.csproj",
+      "projectPath": "C:\\Workspace\\SOACourse\\VehicleTestDrive\\CustomersServiceAPI\\CustomersServiceAPI.csproj",
       "packagesPath": "C:\\Users\\MahaRizk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\CustomersServiceAPI\\obj\\",
+      "outputPath": "C:\\Workspace\\SOACourse\\VehicleTestDrive\\CustomersServiceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5683,8 +5683,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\MessageBroker\\MessageBroker.csproj": {
-              "projectPath": "C:\\Users\\MahaRizk\\Downloads\\Microservice-Net-Core-main\\Microservice-Net-Core-main\\VehicleTestDrive\\MessageBroker\\MessageBroker.csproj"
+            "C:\\Workspace\\SOACourse\\VehicleTestDrive\\MessageBroker\\MessageBroker.csproj": {
+              "projectPath": "C:\\Workspace\\SOACourse\\VehicleTestDrive\\MessageBroker\\MessageBroker.csproj"
             }
           }
         }
