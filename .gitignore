@@ -66,3 +66,4 @@ VehicleTestDrive/VehiclesApi/obj/VehiclesApi.csproj.nuget.dgspec.json
 *.cache
 *.v2
 */vs
+/VehicleTestDrive/.vs
